@@ -1,0 +1,18 @@
+*
+{
+  box-sizing: border-box; /* Used for responsive design */
+}
+
+html
+{
+	scroll-behavior: smooth;
+}
+
+body
+{
+	background-color: #121212;
+	color: #f2f2f2;
+	font-family: Helvetica;
+	max-width: 100vw; /* vw: viewport width; expressed in % */
+	margin: 0px;
+}
